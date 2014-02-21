@@ -141,12 +141,12 @@ TREMULOUS EDGE MOD SRC FILE
 #define LEVEL0_DRILL_SPEED_MOD      0.75f    // walking speed modifier for pounce charging
 #define LEVEL0_DRILL_JUMP_MAG       500      // Dretch pounce jump power
 
-//Basilik
+//Basilisk
 #define LEVEL1_SPEED                1.25f
 #define LEVEL1_VALUE                AVM(270)
 #define LEVEL1_HEALTH               AHM(60)
 #define LEVEL1_REGEN                (0.03f * LEVEL1_HEALTH)
-#define LEVEL1_COST                 1
+#define LEVEL1_COST                 0
 #define LEVEL1_UPG_SPEED            1.25f
 #define LEVEL1_UPG_VALUE            AVM(330)
 #define LEVEL1_UPG_HEALTH           AHM(80)
